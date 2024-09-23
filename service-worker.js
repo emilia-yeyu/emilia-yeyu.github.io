@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "b590eeea4332c866f815ef6388e5ec72"
+    "revision": "69b38bb299e104bf3f6523a061a6b542"
   },
   {
     "url": "assets/css/0.styles.798f876d.css",
@@ -58,8 +58,8 @@ self.__precacheManifest = [
     "revision": "f0e1c8cbbfdb706047c12f6cf540c550"
   },
   {
-    "url": "assets/js/12.0e8e337a.js",
-    "revision": "41b640467e21b22a89ae86a923571f08"
+    "url": "assets/js/12.d533a14a.js",
+    "revision": "c64186e4c0d2d831608f49bfed5760c1"
   },
   {
     "url": "assets/js/13.a362dc93.js",
@@ -74,12 +74,12 @@ self.__precacheManifest = [
     "revision": "4832de9322c46ad9575f2de582088cf6"
   },
   {
-    "url": "assets/js/16.125c299c.js",
-    "revision": "d388e9ecce88525903f42c97686fe402"
+    "url": "assets/js/16.36532f9e.js",
+    "revision": "1c62c5cdb0a5c1463095b4d79e651154"
   },
   {
-    "url": "assets/js/17.f53323a8.js",
-    "revision": "2b05e5f1d7c74f9f2fcc504bbb8a767a"
+    "url": "assets/js/17.a9ee1e6d.js",
+    "revision": "2a7f7f12aa623e0a4b07581783a681ca"
   },
   {
     "url": "assets/js/4.7e602f67.js",
@@ -106,8 +106,8 @@ self.__precacheManifest = [
     "revision": "2b72691961912fa3a11b6e6e8544eed6"
   },
   {
-    "url": "assets/js/app.8819115a.js",
-    "revision": "d15b74ebb186cd887bd23497e8b7c978"
+    "url": "assets/js/app.8fd77413.js",
+    "revision": "699994fac50d03b959a81f3f809f5b31"
   },
   {
     "url": "assets/js/baidu.js",
@@ -123,19 +123,19 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "907d787536df4c2b5c4c72d5f6249d82"
+    "revision": "b8e103560b71c8ad8fe35b4f607ee84e"
   },
   {
     "url": "categories/Java/index.html",
-    "revision": "8203e4cda1f37289d640018ff3311bf2"
+    "revision": "c9b92be404766b1492a2a5ea9523b7bc"
   },
   {
     "url": "categories/life/index.html",
-    "revision": "77766938305f494aab3bb74fa233ddd4"
+    "revision": "88a96a892e07e76536f5d49f2f114e31"
   },
   {
     "url": "categories/zhongkao/index.html",
-    "revision": "81d4ea69a792243e4d1a2d9f054c3023"
+    "revision": "ca602c884cb7e3baa91a10d917dfc6eb"
   },
   {
     "url": "css/style.css",
@@ -151,7 +151,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "ac9bfaa02ee849abfc2bf115b76dca39"
+    "revision": "3f00b1d99d39756d65c4bab9fa6b8b7a"
   },
   {
     "url": "js/custom.js",
@@ -159,47 +159,47 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "12c67d40757d699dd68af4a752b01eec"
+    "revision": "502e87fe22e3a5120365f815040da939"
   },
   {
     "url": "tags/Java/index.html",
-    "revision": "595983ae76f2e0d5560db2ed6e558682"
+    "revision": "10c1487f97770950b065c32e18f6d3a6"
   },
   {
     "url": "tags/JavaSE/index.html",
-    "revision": "74570300d2a5bb77b0f9c91e99be2a45"
+    "revision": "d7049cf5bec87865958d46b4f16e17af"
   },
   {
     "url": "tags/中考/index.html",
-    "revision": "4f96fadcf78c99fdddee65bf756c4b31"
+    "revision": "7d53000513208149e3a9fa09dfa07132"
   },
   {
     "url": "tags/生活/index.html",
-    "revision": "8fb34a9acb4c8e487bc1bf9e3d6614d1"
+    "revision": "5f01990310c28a2ae1a265517902f869"
   },
   {
     "url": "timeline/index.html",
-    "revision": "f6e9d03e2e215aed69f19f42702e621c"
+    "revision": "444e65e34abbeb5f952f8148c2d41c90"
   },
   {
     "url": "中考/01.html",
-    "revision": "3ba1895ec2108f6cf5fb80c1c6281dc4"
+    "revision": "8d275039f9b8ec0ee07ad72c23c06882"
   },
   {
     "url": "中考/index.html",
-    "revision": "5d104ce4193d595c866a36856f1caabb"
+    "revision": "faf119d3da164f300e1288e54d80523a"
   },
   {
     "url": "技术文章/index.html",
-    "revision": "8a0fa4b02f6c62f1fd38f2f7ec5a8979"
+    "revision": "bb5b16de47b61b5a5f15af5bfbf02c8f"
   },
   {
     "url": "技术文章/java/javase.html",
-    "revision": "089e0693948192ab56586ddb0ea2466b"
+    "revision": "4f45e93f4acc07019e9e70680e4f87ca"
   },
   {
     "url": "生活分享/index.html",
-    "revision": "dd199b06506e00885f81dbd0f091e586"
+    "revision": "08f86ba2593ca73125df90e0a8973f92"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
